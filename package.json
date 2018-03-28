@@ -1,0 +1,37 @@
+{
+  "name": "my-art",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "apollo-cache-inmemory": "^1.1.11",
+    "apollo-link-context": "^1.0.7",
+    "apollo-link-error": "^1.0.7",
+    "apollo-link-http": "^1.5.3",
+    "install": "^0.11.0",
+    "jsonwebtoken": "^8.2.0",
+    "lodash": "^4.17.5",
+    "react": "^16.2.0",
+    "react-apollo": "^2.0.4",
+    "react-datetime": "^2.14.0",
+    "react-dom": "^16.2.0",
+    "react-facebook-login": "^4.0.1",
+    "react-google-login": "^3.1.0",
+    "react-instagram-login": "^1.2.0",
+    "react-messenger-plugin": "^2.0.0",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "react-slick": "^0.22.3",
+    "react-twitter-auth": "^0.0.11",
+    "semantic-ui-css": "^2.3.1",
+    "semantic-ui-react": "^0.79.0",
+    "styled-components": "^3.2.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
